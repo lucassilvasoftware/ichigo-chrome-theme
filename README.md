@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview ichigo chrome.png" alt="Preview do IchigoTheme para Chrome" width="720"/>
+</p>
+
 # 🌆 IchigoTheme  
 
 **IchigoTheme** é um tema para Chrome inspirado no conceito japonês de **ichigo ichie (一期一会)** — a ideia de que cada momento é único e deve ser valorizado.  
