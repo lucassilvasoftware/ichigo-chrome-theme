@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+  "name": "Ichigo Theme",
+  "version": "1.1",
+  "description": "A contemplative dark theme, where neon lights meet the quiet depth of thought, reflecting the balance between chaos and serenity.",
+  "author": "Lucas Silva",
+  "theme": {
+    "colors": {
+      "frame": [10, 10, 20],
+      "frame_inactive": [15, 15, 25],
+      "frame_incognito": [12, 12, 24],
+      "frame_incognito_inactive": [18, 18, 28],
+      "toolbar": [15, 15, 30],
+      "tab_text": [230, 230, 235],
+      "tab_background_text": [120, 120, 140],
+      "tab_background_text_inactive": [80, 85, 110],
+      "tab_background_text_incognito": [130, 130, 150],
+      "tab_background_text_incognito_inactive": [90, 95, 115],
+      "bookmark_text": [230, 230, 235],
+      "ntp_background": [10, 10, 20],
+      "ntp_text": [235, 235, 240],
+      "ntp_link": [0, 255, 200],
+      "ntp_section": [35, 45, 70],
+      "ntp_section_text": [230, 230, 240],
+      "ntp_section_link": [255, 80, 180],
+      "button_background": [15, 15, 30],
+      "omnibox_background": [35, 45, 70],
+      "omnibox_text": [235, 235, 240],
+      "background_tab": [20, 20, 35],
+      "background_tab_inactive": [90, 95, 120],
+      "background_tab_incognito": [20, 20, 35],
+      "background_tab_incognito_inactive": [30, 32, 45]
+    },
+    "tints": {
+      "buttons": [0.85, 0.3, 0.9],
+      "frame": [0.7, 0.4, 0.25],
+      "frame_inactive": [0.6, 0.4, 0.1],
+      "frame_incognito": [0.75, 0.5, 0.3],
+      "frame_incognito_inactive": [0.6, 0.4, 0.15],
+      "background_tab": [0.7, 0.5, 0.2]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
