@@ -1,17 +1,16 @@
-<p align="center">
-  <img src="preview ichigo chrome.png" alt="Preview do IchigoTheme para Chrome" width="720"/>
-</p>
+# Ichigo Theme — Chrome
 
-# 🌆 IchigoTheme  
+Tema para o **Google Chrome** com estética escura inspirada no conceito de **ichigo ichie** (valorizar cada instante): paleta equilibrada, leitura confortável e foco em código e texto.
 
-**IchigoTheme** é um tema para Chrome inspirado no conceito japonês de **ichigo ichie (一期一会)** — a ideia de que cada momento é único e deve ser valorizado.  
+## Características
 
-**Características**  
-- Paleta equilibrada, entre o neon e a serenidade  
-- Tema escuro contemplativo, focado na leitura e no código  
-- Estética japonesa: **Ma (間)**, **Kanso (簡素)** e **Wabi-sabi (侘寂)**  
-- Minimalista, elegante e pensado para foco  
+- Tema escuro com ênfase em contraste suave e legibilidade prolongada
+- Inspiração em princípios de design minimalista (clareza, espaço, simplicidade)
 
-📥 **Instalação**  
-1. Baixe o tema no Chrome Web Store *(link aqui quando disponível)*  
-2. Ative e aproveite uma navegação mais calma e imersiva.  
+## Instalação
+
+1. Abra o Chrome e vá em `chrome://extensions/`.
+2. Ative o **Modo do desenvolvedor**.
+3. Use **Carregar sem compactação** e selecione a pasta deste tema (manifest e assets do tema).
+
+Quando houver publicação na Chrome Web Store, o link poderá ser adicionado aqui; até lá, a instalação é feita pelo modo desenvolvedor com a pasta do projeto.
